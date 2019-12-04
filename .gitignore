@@ -5,3 +5,4 @@ utils
 *.png
 q
 __pycache__
+conf_
