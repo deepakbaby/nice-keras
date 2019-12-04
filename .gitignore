@@ -1,8 +1,0 @@
-*.sh
-utils
-*.log
-*.h5
-*.png
-q
-__pycache__
-conf_
