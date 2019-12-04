@@ -1,0 +1,8 @@
+*.sh
+*.log
+*.png
+utils
+conf
+q
+__pycache__
+
